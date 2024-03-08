@@ -6,7 +6,7 @@ package com.mycompany.playlistt;
 
 /**
  *
- * @author raymu
+ * @author LAPONE
  */
 public class Musicas {
     
