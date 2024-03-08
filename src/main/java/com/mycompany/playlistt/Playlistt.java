@@ -6,7 +6,7 @@ package com.mycompany.playlistt;
 
 /**
  *
- * @author LAPONE
+ * @author Sarahi
  */
 public class Playlistt {
 
